@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache

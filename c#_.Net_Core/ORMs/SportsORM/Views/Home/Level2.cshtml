@@ -1,0 +1,228 @@
+<div class="card">
+    <div class="card-header bg-dark text-light">Level 2</div>
+    <div class="card-body">
+        <p>Using the SportsORM, complete all the following queries and show their results on Level2.cshtml.</p>
+        <ol>
+        <div class="row">
+
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <pre class="prettyprint">
+// Inside of HomeController.cs
+[HttpGet("level_1")]
+public IActionResult Level1()
+&#123;
+    ViewBag.BaseballLeagues = _context.Leagues
+            .Where(l => l.Name.ToLower().Contains("women"))
+            .ToList();
+&#125;
+                </pre>
+                <pre class="prettyprint">
+&lt;table class="table table-striped"&gt;
+    &lt;tr&gt;
+        &lt;th&gt;League Name&lt;/th&gt;
+        &lt;th&gt;League Sport&lt;/th&gt;
+    &lt;/tr&gt;
+    &#64;foreach(var l in ViewBag.BaseballLeagues)
+    &#123;
+        &lt;tr&gt;
+            &lt;td&gt;&#64;l.Name&lt;/td&gt;
+            &lt;td&gt;&#64;l.Sport&lt;/td&gt;
+        &lt;/tr&gt;
+    &#125;
+&lt;/table&gt;
+                </pre>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h3>All Teams in Altantic Soccer Conference</h3>
+                <table class="table table-striped">
+                    <tr>
+                        <th>Team Name</th>
+                        <th>Team Location</th>
+                        <td>Team LeagueId</td>
+                    </tr>
+                    @foreach(var l in ViewBag.AtlanticSoccerConf)
+                    {
+                        <tr>
+                            <td>@l.TeamName</td>
+                            <td>@l.Location</td>
+                            <td>@l.LeagueId</td>
+                        </tr>
+                    }
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h3>All Current Players in Boston Penguins</h3>
+                <table class="table table-striped">
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Team ID</th>
+                    </tr>
+                    @foreach (var t in ViewBag.BostonPegguins)
+                    {
+                        <tr>
+                            <td>@t.FirstName</td>
+                            <td>@t.LastName</td>
+                            <td>@t.TeamId</td>
+                        </tr>
+                    }
+                    
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h3>All Players in International Collegiate Baseball Conference</h3>
+                <table class="table table-striped">
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Team ID</th>
+                    </tr>
+                    @foreach (var t in ViewBag.PlayersInICBC)
+                    {
+                    @foreach(var p in t.CurrentPlayers)
+                    {
+                        <tr>
+                            <td>@p.FirstName</td>
+                            <td>@p.LastName</td>
+                            <td>@p.TeamId</td>
+                        </tr>
+                    }
+                    }
+                    
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h3>All Players in American Conference of Amateur Football</h3>
+                <table class="table table-striped">
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Team ID</th>
+                    </tr>
+                    @foreach (var t in ViewBag.PlayersInAmatuerFootball)
+                    {
+                        <tr>
+                            <td>@t.FirstName</td>
+                            <td>@t.LastName</td>
+                            <td>@t.TeamId</td>
+                        </tr>
+                    }
+                    
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h3>All Current Players name Sophi in Teams</h3>
+                <table class="table table-striped">
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Team ID</th>
+                    </tr>
+                    @foreach (var t in ViewBag.TeamPlayerSophia)
+                    {
+                    @foreach(var p in t.CurrentPlayers)
+                    {
+                        <tr>
+                            <td>@p.FirstName</td>
+                            <td>@p.LastName</td>
+                            <td>@p.TeamId</td>
+                        </tr>
+                    }
+                    }
+                    
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h3>All Current Players name Sophi in Leagues</h3>
+                <table class="table table-striped">
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Team ID</th>
+                    </tr>
+                    @foreach (var t in ViewBag.LeaguePlayerSophia)
+                    {
+                    @foreach(var p in t.Teams)
+                    {
+                    @foreach(var s in p.CurrentPlayers)
+                    {
+                        <tr>
+                            <td>@s.FirstName</td>
+                            <td>@s.LastName</td>
+                            <td>@s.TeamId</td>
+                        </tr>
+                    }    
+                    }
+                    }
+                    
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h3>All Current Players with Last Name Flores in Who doen't play for Washintion Roughriders</h3>
+                <table class="table table-striped">
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Team ID</th>
+                    </tr>
+                    @foreach (var t in ViewBag.FloresNotInWR)
+                    {
+                        <tr>
+                            <td>@t.FirstName</td>
+                            <td>@t.LastName</td>
+                            <td>@t.TeamId</td>
+                        </tr>
+                    }
+                    
+                </table>
+            </div>
+        </div>
+    </div>
+
+            <li>...all (current) players on the Boston Penguins (Hint: Boston is the Location, Penguins is the TeamName)</li>
+            <li>...all (current) players in the International Collegiate Baseball Conference</li>
+            <li>...all (current) players in the American Conference of Amateur Football with last name "Lopez"</li>
+            <li>...all football players</li>
+            <li>...all teams with a (current) player named "Sophia"</li>
+            <li>...all leagues with a (current) player named "Sophia"</li>
+            <li>...everyone with the last name "Flores" who DOESN'T (currently) play for the Washington Roughriders</li>
+        </ol>
+    </div>
+</div>

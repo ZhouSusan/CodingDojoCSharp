@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\FirstAssingment\bin\Debug\netcoreapp3.1\FirstAssingment.exe
+C:\Users\szhou\c#\FirstAssingment\bin\Debug\netcoreapp3.1\FirstAssingment.deps.json
+C:\Users\szhou\c#\FirstAssingment\bin\Debug\netcoreapp3.1\FirstAssingment.runtimeconfig.json
+C:\Users\szhou\c#\FirstAssingment\bin\Debug\netcoreapp3.1\FirstAssingment.runtimeconfig.dev.json
+C:\Users\szhou\c#\FirstAssingment\bin\Debug\netcoreapp3.1\FirstAssingment.dll
+C:\Users\szhou\c#\FirstAssingment\bin\Debug\netcoreapp3.1\FirstAssingment.pdb
+C:\Users\szhou\c#\FirstAssingment\obj\Debug\netcoreapp3.1\FirstAssingment.csprojAssemblyReference.cache
+C:\Users\szhou\c#\FirstAssingment\obj\Debug\netcoreapp3.1\FirstAssingment.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\FirstAssingment\obj\Debug\netcoreapp3.1\FirstAssingment.AssemblyInfo.cs
+C:\Users\szhou\c#\FirstAssingment\obj\Debug\netcoreapp3.1\FirstAssingment.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\FirstAssingment\obj\Debug\netcoreapp3.1\FirstAssingment.dll
+C:\Users\szhou\c#\FirstAssingment\obj\Debug\netcoreapp3.1\FirstAssingment.pdb
+C:\Users\szhou\c#\FirstAssingment\obj\Debug\netcoreapp3.1\FirstAssingment.genruntimeconfig.cache

@@ -1,0 +1,35 @@
+@model Transaction
+
+<h1>Welcome @ViewBag.CurrentUser.FirstName @ViewBag.CurrentUser.LastName</h1>
+
+<p>Current balance: <span>$@Math.Round(@ViewBag.CurrentUser.Balance, 2)</span></p>
+
+<div class="col-md">
+    <form method="post" asp-action="Transaction" asp-controller="Home">
+        <p>Deposit/Action: </p>
+        <label asp-for="Amount">Amount: </label>
+        <input type="text" asp-for="Amount">
+        <span asp-validation-for="Amount" class="text-danger"></span>
+        <input type="submit" class="btn btn-warning">
+    </form>
+</div>
+
+<div class="table">
+    <table class= "table table-striped">
+        <thead>
+            <tr>
+                <th>Amount</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var trans in @ViewBag.CurrentUser.Transactions)
+            {
+                <tr>
+                    <th>@Math.Round(trans.Amount, 2)</th>
+                    <th>@trans.CreatedAt.ToString("MMMM dd yyyy")</th>
+                </tr>
+            }  
+        </tbody>
+    </table>
+</div>

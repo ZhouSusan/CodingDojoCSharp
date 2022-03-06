@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\bin\Debug\netcoreapp3.1\FundamentalsOne.exe
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\bin\Debug\netcoreapp3.1\FundamentalsOne.deps.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\bin\Debug\netcoreapp3.1\FundamentalsOne.runtimeconfig.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\bin\Debug\netcoreapp3.1\FundamentalsOne.runtimeconfig.dev.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\bin\Debug\netcoreapp3.1\FundamentalsOne.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\bin\Debug\netcoreapp3.1\FundamentalsOne.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\obj\Debug\netcoreapp3.1\FundamentalsOne.csprojAssemblyReference.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\obj\Debug\netcoreapp3.1\FundamentalsOne.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\obj\Debug\netcoreapp3.1\FundamentalsOne.AssemblyInfo.cs
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\obj\Debug\netcoreapp3.1\FundamentalsOne.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\obj\Debug\netcoreapp3.1\FundamentalsOne.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\obj\Debug\netcoreapp3.1\FundamentalsOne.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\FundamentalsOne\obj\Debug\netcoreapp3.1\FundamentalsOne.genruntimeconfig.cache

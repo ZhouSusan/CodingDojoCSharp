@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.exe
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.deps.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.runtimeconfig.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.runtimeconfig.dev.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.csprojAssemblyReference.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.AssemblyInfo.cs
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.genruntimeconfig.cache

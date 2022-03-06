@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.exe
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.deps.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.runtimeconfig.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.runtimeconfig.dev.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.csprojAssemblyReference.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.AssemblyInfo.cs
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.genruntimeconfig.cache

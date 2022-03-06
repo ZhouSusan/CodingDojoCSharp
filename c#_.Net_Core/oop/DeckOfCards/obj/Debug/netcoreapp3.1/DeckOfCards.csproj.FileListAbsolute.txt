@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\bin\Debug\netcoreapp3.1\DeckOfCards.exe
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\bin\Debug\netcoreapp3.1\DeckOfCards.deps.json
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.json
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\bin\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\bin\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\obj\Debug\netcoreapp3.1\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\obj\Debug\netcoreapp3.1\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\obj\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\obj\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\szhou\c#\c#_.Net_Core\oop\DeckofCards\obj\Debug\netcoreapp3.1\DeckOfCards.genruntimeconfig.cache

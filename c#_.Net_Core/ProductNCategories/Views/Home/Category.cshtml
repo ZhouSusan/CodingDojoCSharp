@@ -1,0 +1,30 @@
+@model ProdCategory
+
+<h1>@ViewBag.getCategory.Name</h1>
+
+<div class="row mt-5">
+    <div class="col-md">
+        <h2>Product: </h2>
+        <ul>
+            @foreach (var i in @ViewBag.productsWithCategories.ProdCategories)
+            {
+                <li>@i.Product.Name</li>
+            }
+        </ul>
+    </div>
+    <div class="col-md">
+        <h2>Add Product:</h2>
+        <form asp-action="AddProdToCat" asp-controller="Home" method="POST">
+            <input type="hidden" asp-for="CategoryId" value="@ViewBag.getCategory.CategoryId"/>
+                <select asp-for="ProductId"  class="form-control">
+                @foreach (var other in @ViewBag.OtherProducts)
+                {
+                    <option value="@other.ProductId">@other.Name</option>
+                }
+            </select>   
+            <div class="form-group">
+                <button type="submit">Add</button>
+            </div>
+        </form>
+    </div>
+</div>

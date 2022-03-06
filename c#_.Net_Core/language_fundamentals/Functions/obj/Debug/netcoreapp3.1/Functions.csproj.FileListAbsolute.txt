@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\bin\Debug\netcoreapp3.1\Functions.exe
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\bin\Debug\netcoreapp3.1\Functions.deps.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.dev.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\bin\Debug\netcoreapp3.1\Functions.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\bin\Debug\netcoreapp3.1\Functions.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\obj\Debug\netcoreapp3.1\Functions.csprojAssemblyReference.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\obj\Debug\netcoreapp3.1\Functions.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\obj\Debug\netcoreapp3.1\Functions.AssemblyInfo.cs
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\obj\Debug\netcoreapp3.1\Functions.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\obj\Debug\netcoreapp3.1\Functions.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\obj\Debug\netcoreapp3.1\Functions.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Functions\obj\Debug\netcoreapp3.1\Functions.genruntimeconfig.cache

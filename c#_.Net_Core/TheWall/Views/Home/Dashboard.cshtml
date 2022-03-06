@@ -1,0 +1,30 @@
+<h1>CodingDojo Wall</h1>
+<p>Welcome @ViewBag.CurrentUser.FirstName @ViewBag.CurrentUser.LastName</p>
+<hr>
+@model Message
+<div>
+    <form asp-action="CreateMessage" asp-controller="Home" method="post">
+        <h3>Post a Message</h3>
+        <label asp-for="Msg"></label>
+        <textarea asp-for="Msg" cols="30" rows="10"></textarea>
+        <input type="submit" value="Post a Message">
+    </form>
+</div>
+
+@foreach (var msg in @ViewBag.AllMessages)
+{
+    <p>@msg.User.FirstName @msg.User.LastName - @msg.CreatedAt.ToString("MMMM dd yyyy")</p>
+    <p>@msg.Msg</p>
+    
+    @foreach (var relatedComments in msg.Comments)
+    {
+        <p>@relatedComments.ComCreator.FirstName @relatedComments.ComCreator.LastName - @relatedComments.ComCreator.CreatedAt</p>
+        <p>@relatedComments.Comet</p>
+    }
+    <form asp-action="CreateComment" asp-routing-id="@msg.MessageId" asp-controller="Home" method="post">
+        <h3>Post a Comment</h3>
+        <textarea cols="30" rows="10"></textarea>
+        <input type="submit" value="Post a Comment">
+    </form>
+}
+

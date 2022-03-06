@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.deps.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.dev.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csprojAssemblyReference.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfo.cs
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.genruntimeconfig.cache

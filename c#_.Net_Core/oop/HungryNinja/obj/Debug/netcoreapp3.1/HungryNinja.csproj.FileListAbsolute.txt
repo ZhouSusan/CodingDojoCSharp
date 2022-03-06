@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.exe
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.deps.json
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.runtimeconfig.json
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.runtimeconfig.dev.json
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.dll
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.pdb
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.csprojAssemblyReference.cache
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.AssemblyInfo.cs
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.dll
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.pdb
+C:\Users\szhou\c#\c#_.Net_Core\oop\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.genruntimeconfig.cache

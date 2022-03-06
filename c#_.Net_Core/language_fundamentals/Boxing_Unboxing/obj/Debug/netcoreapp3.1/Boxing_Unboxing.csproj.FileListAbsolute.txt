@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\bin\Debug\netcoreapp3.1\Boxing_Unboxing.exe
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\bin\Debug\netcoreapp3.1\Boxing_Unboxing.deps.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\bin\Debug\netcoreapp3.1\Boxing_Unboxing.runtimeconfig.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\bin\Debug\netcoreapp3.1\Boxing_Unboxing.runtimeconfig.dev.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\bin\Debug\netcoreapp3.1\Boxing_Unboxing.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\bin\Debug\netcoreapp3.1\Boxing_Unboxing.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\obj\Debug\netcoreapp3.1\Boxing_Unboxing.csprojAssemblyReference.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\obj\Debug\netcoreapp3.1\Boxing_Unboxing.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\obj\Debug\netcoreapp3.1\Boxing_Unboxing.AssemblyInfo.cs
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\obj\Debug\netcoreapp3.1\Boxing_Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\obj\Debug\netcoreapp3.1\Boxing_Unboxing.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\obj\Debug\netcoreapp3.1\Boxing_Unboxing.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\Boxing_Unboxing\obj\Debug\netcoreapp3.1\Boxing_Unboxing.genruntimeconfig.cache

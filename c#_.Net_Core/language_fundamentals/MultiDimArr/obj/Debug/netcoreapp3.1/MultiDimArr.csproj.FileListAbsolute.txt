@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\bin\Debug\netcoreapp3.1\MultiDimArr.exe
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\bin\Debug\netcoreapp3.1\MultiDimArr.deps.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\bin\Debug\netcoreapp3.1\MultiDimArr.runtimeconfig.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\bin\Debug\netcoreapp3.1\MultiDimArr.runtimeconfig.dev.json
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\bin\Debug\netcoreapp3.1\MultiDimArr.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\bin\Debug\netcoreapp3.1\MultiDimArr.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\obj\Debug\netcoreapp3.1\MultiDimArr.csprojAssemblyReference.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\obj\Debug\netcoreapp3.1\MultiDimArr.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\obj\Debug\netcoreapp3.1\MultiDimArr.AssemblyInfo.cs
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\obj\Debug\netcoreapp3.1\MultiDimArr.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\obj\Debug\netcoreapp3.1\MultiDimArr.dll
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\obj\Debug\netcoreapp3.1\MultiDimArr.pdb
+C:\Users\szhou\c#\c#_.Net_Core\language_fundamentals\MultiDimArr\obj\Debug\netcoreapp3.1\MultiDimArr.genruntimeconfig.cache

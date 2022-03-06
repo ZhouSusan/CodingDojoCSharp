@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Survey
+
+<head>
+    <title>Dojo Survey Index</title>
+</head>
+<body>
+    <div class="container">
+    <form method='post' asp-action="Submit" asp-controller="Home" class="row g-3">
+        <h1>Dojo Survey</h1>
+        <div id="info-box">
+            <div class="col-sm-6">
+                <div class="col-auto">
+                    <span asp-validation-for="Name"></span>
+                    <label asp-for="Name">Your Name:</label>
+                    <input asp-for="Name" class="form-control">
+                </div>
+            </div>    
+            <div class="col-sm-6">
+                <div class="col-auto">
+                    <span asp-validation-for="Location"></span>
+                    <label asp-for="Location">Your Location:</label>
+                <select class="form-select" asp-for="Location" aria-label="Default select example">
+                    <option disabled selected>--Select A Location--</option>
+                    <option value="Bellevue, WA">Bellevue, WA</option>
+                    <option value="Boise, ID">Boise, ID</option>
+                    <option value="Chicago, IL">Chicago, IL</option>
+                    <option value="Los Angeles, CA">Los Angeles, CA</option>
+                    <option value="Sillicon Valley, CA">Sillicon Valley, CA</option>
+                </select>
+                </div>
+            </div>
+            <div class="col-sm-6">    
+                <div class="col-auto">
+                    <span asp-validation-for="Language"></span>
+                    <label asp-for="Language">Favorite Language:</label>
+                    <select class="form-select" asp-for="Language" aria-label="Default select example">
+                        <option disabled selected>--Select A Language--</option>
+                        <option value="HTML">HTML</option>
+                        <option value="CSS">CSS</option>
+                        <option value="Javascript">Javascript</option>
+                        <option value="Python">Python</option>
+                        <option value="C#">C#</option>
+                    </select>
+                </div>
+            </div>    
+            <div class="col-sm-6">
+                <div class="mb-3">
+                    <span asp-validation-for="Comment"></span>
+                    <label asp-for="Comment" class="form-label">Comments (optional)</label>
+                    <textarea class="form-control" asp-for="Comment" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+            </div>      
+            <button value="Submit" type="submit" class="btn btn-warning">Submit</button>
+        </div>
+    </form>
+</div>
+</body>

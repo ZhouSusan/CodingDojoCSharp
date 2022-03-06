@@ -1,0 +1,29 @@
+@model Transaction
+<h1>Welcome, @ViewBag.CurrentUser.FirstName @ViewBag.CurrentUser.LastName</h1>
+<p>Current balance: @ViewBag.UserAccount.Balance</p>
+<div class="form-group">
+    <form asp-action="Withdrawal" method="post" asp-controller="Home" class="logreg">    
+        <label asp-for="Amount">How much would you like to withdraw? </label>
+        <input class="form-control" asp-for="Amount">
+        <input class="btn btn-primary" type="submit" value="Submit">
+    </form>
+</div>     
+<hr>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Amount</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach(var t in ViewBag.UserAccount.Transactions)
+    {
+        <tr>
+            <td>@t.Amount</td>
+            <td>@t.CreatedAt</td>
+        </tr>
+    }
+    </tbody>
+</table>
+

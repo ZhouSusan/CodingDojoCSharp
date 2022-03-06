@@ -1,0 +1,13 @@
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.exe
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.deps.json
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.runtimeconfig.json
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.runtimeconfig.dev.json
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.dll
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.pdb
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.csprojAssemblyReference.cache
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.AssemblyInfoInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.AssemblyInfo.cs
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.csproj.CoreCompileInputs.cache
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.dll
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.pdb
+C:\Users\szhou\c#\c#_.Net_Core\oop\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.genruntimeconfig.cache

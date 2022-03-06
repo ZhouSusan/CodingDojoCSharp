@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Dojodachi!";
+}
+
+<div class="text-center">
+    <div class="top-bar">
+        <div>
+            <p>Fullness: <span id="fullnessAmt">@ViewBag.Fullness</span></p>
+        </div>
+        <div>
+            <p>Happiness: <span id="happinessAmt">@ViewBag.Happiness</span></p>
+        </div>
+        <div>
+            <p>Meals: <span id="mealsCount">@ViewBag.Meals</span></p>
+        </div>
+        <div>
+            <p>Energy: <span id="energyAmt">@ViewBag.Energy</span></p>
+        </div>
+    </div>
+    <div class="middle-box">
+        <img id="pic-box" src="/img/sushi.jpg" alt="pet_img">
+        <div id="restart-btn" style="display: none;">
+            <a href="/restart" class="btn btn-success">Restart</a>
+        </div>
+        <p id="message-box">@ViewBag.Message</p>
+    </div>
+    <div class="bottom-row">
+        <div>
+            <button id="btn-Feed">Feed</button>
+        </div>  
+        <div>
+            <button id="btn-Play">Play</button>
+        </div>
+        <div>
+            <button id="btn-Work">Work</button>
+        </div>
+        <div>
+            <button id="btn-Sleep">Sleep</button>
+        </div>  
+    </div>
+</div>

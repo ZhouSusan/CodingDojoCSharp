@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Pet
+
+<div class="text-center">
+    <div class="row">
+        <div class="col-md">Fullness: @Model.Fullness</div>
+        <div class="col-md">Happiness: @Model.Happiness</div>
+        <div class="col-md">Meals: @Model.Meals</div>
+        <div class="col-md">Energy: @Model.Energy</div>
+    </div>
+</div>
+
+<div>
+    <h2 class="text-center">
+        @if (Model.State == "Win") 
+        {
+            <span class="text-success">@Model.State</span>
+        }
+        else if (Model.State == "Lose")
+        {
+            <span class="text-danger">@Model.State</span>
+            <a asp-controller="Home" asp-action="restart" class="btn btn-outline-primary btn-sm">Restart</a>
+        }
+        else 
+        {
+            <span class="text-warning">@Model.State</span>
+        }
+    </h2>
+</div>
+<img src="/img/pet.jfif" alt="img_of_pet">
+
+<div class="row">
+    <div class="col-md">
+        <a asp-controller="Home" asp-action="Feed" class="btn btn-outline-primary btn-sm">Feed</a>
+        <a asp-controller="Home" asp-action="Play" class="btn btn-outline-primary btn-sm">Play</a>
+        <a asp-controller="Home" asp-action="Work" class="btn btn-outline-primary btn-sm">Work</a>
+        <a asp-controller="Home" asp-action="Sleep" class="btn btn-outline-primary btn-sm">Sleep</a>
+    </div>
+</div>
